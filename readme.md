@@ -64,4 +64,4 @@ There are several tests that cover basic ERC20 Token functionality, and three te
 
 ## Acknowledgments
 
-* This project was done for [SimplyVital Health](https://www.simplyvitalhealth.com/)
+* [SimplyVital Health](https://www.simplyvitalhealth.com/) 
