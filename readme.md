@@ -1,7 +1,7 @@
 
 ## Standard ERC20 Token contract with keys
 
-This is standard token contract that allows token holders create keys from a url and sell them for tokens. 
+This is standard token contract, that additionally allows token holders to create a key unique to a url, then sell those for tokens. 
 
 ## Getting Started
 
