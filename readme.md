@@ -65,3 +65,4 @@ There are several tests that cover basic ERC20 Token functionality, and three te
 ## Acknowledgments
 
 * [SimplyVital Health](https://www.simplyvitalhealth.com/) 
+* [ConsenSys: Standard Token Contract](https://github.com/ConsenSys/Tokens/blob/master/contracts/StandardToken.sol)
